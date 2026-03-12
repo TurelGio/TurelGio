@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Turel Gioele</h1>
 <h3 align="center">Developer from Italy</h3>
 
-- 💬 Ask me about **Cybersecurity related topics**
+- 🔭 I’m currently studying at **Bachelor Degree in Computer Engineering** at **University of Trieste**
+
+- 💬 Ask me about **Programming** and **Cybersecurity.**
 
 - 📫 How to reach me **turel.gioele@gmail.com**
 
